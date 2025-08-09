@@ -22,9 +22,9 @@
 | <img src="https://avatars.githubusercontent.com/u/5235087?v=4" width="32"/> | [NateBrune](https://github.com/NateBrune) |
 | <img src="https://avatars.githubusercontent.com/u/22886482?v=4" width="32"/> | [Forinil](https://github.com/Forinil) |
 | <img src="https://avatars.githubusercontent.com/u/22356916?v=4" width="32"/> | [drov0](https://github.com/drov0) |
+| <img src="https://avatars.githubusercontent.com/u/20237127?v=4" width="32"/> | [niyid](https://github.com/niyid) |
 | <img src="https://avatars.githubusercontent.com/u/42038027?v=4" width="32"/> | [wkedzierski](https://github.com/wkedzierski) |
 | <img src="https://avatars.githubusercontent.com/u/9946777?v=4" width="32"/> | [abitmore](https://github.com/abitmore) |
-| <img src="https://avatars.githubusercontent.com/u/20237127?v=4" width="32"/> | [niyid](https://github.com/niyid) |
 | <img src="https://avatars.githubusercontent.com/u/408977?v=4" width="32"/> | [sneak](https://github.com/sneak) |
 | <img src="https://avatars.githubusercontent.com/u/20735105?v=4" width="32"/> | [TimCliff](https://github.com/TimCliff) |
 | <img src="https://avatars.githubusercontent.com/u/10530973?v=4" width="32"/> | [syvb](https://github.com/syvb) |
@@ -84,6 +84,7 @@
 | <img src="https://avatars.githubusercontent.com/u/22716571?v=4" width="32"/> | [Alex-GR](https://github.com/Alex-GR) |
 | <img src="https://avatars.githubusercontent.com/u/677686?v=4" width="32"/> | [aaroncox](https://github.com/aaroncox) |
 <!-- CONTRIBUTORS END -->
+
 
 
 
